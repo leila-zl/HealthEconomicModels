@@ -1,4 +1,4 @@
-# Load the Shiny library to create the app
+
 library(shiny)
 
 # Define model constants outside the reactive block for clarity and easy adjustment
