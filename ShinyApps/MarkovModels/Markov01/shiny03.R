@@ -2,7 +2,7 @@ library(shiny)
 
 # Define UI (User Interface)
 ui <- fluidPage(
-  titlePanel("Basic Markov Model App"),
+  titlePanel("Basic Markov Model"),
   
   sidebarLayout(
     sidebarPanel(
