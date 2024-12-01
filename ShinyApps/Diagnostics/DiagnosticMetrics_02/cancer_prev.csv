@@ -1,0 +1,707 @@
+﻿cancer_type,gender,age_group,prevalence
+Bladder,Female,10-14,0.001
+Bladder,Male,10-14,0.001
+Blood,Female,10-14,0.343
+Blood,Male,10-14,0.535
+Bone tissue sarcoma,Female,10-14,0.074
+Bone tissue sarcoma,Male,10-14,0.071
+Brain,Female,10-14,0.281
+Brain,Male,10-14,0.326
+Colorectal,Female,10-14,0.004
+Colorectal,Male,10-14,0.004
+Head and neck,Female,10-14,0.015
+Head and neck,Male,10-14,0.016
+Kidney,Female,10-14,0.031
+Kidney,Male,10-14,0.014
+Liver and biliary tract,Female,10-14,0.001
+Liver and biliary tract,Male,10-14,0.006
+Melanoma,Female,10-14,0.01
+Melanoma,Male,10-14,0.008
+Neuroendocrine,Female,10-14,0.003
+Neuroendocrine,Male,10-14,0.004
+Non small cell lung cancer,Female,10-14,0.003
+Non small cell lung cancer,Male,10-14,0.003
+Ovary,Female,10-14,0.042
+Pancreas,Female,10-14,0.002
+Pancreas,Male,10-14,0.001
+Soft tissue sarcoma,Female,10-14,0.071
+Soft tissue sarcoma,Male,10-14,0.06
+Stomach,Female,10-14,0.003
+Testicular tumours,Male,10-14,0.007
+Bladder,Female,05-09,0.002
+Bladder,Male,05-09,0.008
+Blood,Female,05-09,0.488
+Blood,Male,05-09,0.793
+Bone tissue sarcoma,Female,05-09,0.02
+Bone tissue sarcoma,Male,05-09,0.029
+Brain,Female,05-09,0.258
+Brain,Male,05-09,0.363
+Cervix,Female,05-09,0.001
+Colorectal,Female,05-09,0.002
+Colorectal,Male,05-09,0.002
+Head and neck,Female,05-09,0.004
+Head and neck,Male,05-09,0.007
+Kidney,Female,05-09,0.111
+Kidney,Male,05-09,0.093
+Liver and biliary tract,Female,05-09,0.015
+Liver and biliary tract,Male,05-09,0.024
+Melanoma,Female,05-09,0.006
+Melanoma,Male,05-09,0.004
+Neuroendocrine,Female,05-09,0.002
+Neuroendocrine,Male,05-09,0.002
+Non small cell lung cancer,Female,05-09,0.002
+Non small cell lung cancer,Male,05-09,0.002
+Ovary,Female,05-09,0.014
+Prostate,Male,05-09,0.001
+Soft tissue sarcoma,Female,05-09,0.07
+Soft tissue sarcoma,Male,05-09,0.082
+Testicular tumours,Male,05-09,0.016
+Bladder,Male,00-04,0.005
+Blood,Female,00-04,0.27
+Blood,Male,00-04,0.337
+Bone tissue sarcoma,Female,00-04,0.006
+Bone tissue sarcoma,Male,00-04,0.003
+Brain,Female,00-04,0.152
+Brain,Male,00-04,0.184
+Head and neck,Female,00-04,0.002
+Head and neck,Male,00-04,0.005
+Kidney,Female,00-04,0.07
+Kidney,Male,00-04,0.08
+Liver and biliary tract,Female,00-04,0.023
+Liver and biliary tract,Male,00-04,0.038
+Melanoma,Male,00-04,0.001
+Non small cell lung cancer,Female,00-04,0.002
+Non small cell lung cancer,Male,00-04,0.005
+Ovary,Female,00-04,0.004
+Prostate,Male,00-04,0.001
+Renal pelvis and ureter,Male,00-04,0.001
+Soft tissue sarcoma,Female,00-04,0.035
+Soft tissue sarcoma,Male,00-04,0.073
+Testicular tumours,Male,00-04,0.024
+Bladder,Female,15-19,0.003
+Bladder,Male,15-19,0.004
+Blood,Female,15-19,0.457
+Blood,Male,15-19,0.626
+Bone tissue sarcoma,Female,15-19,0.109
+Bone tissue sarcoma,Male,15-19,0.125
+Brain,Female,15-19,0.275
+Brain,Male,15-19,0.319
+Breast,Female,15-19,0.005
+Cervix,Female,15-19,0.006
+Colorectal,Female,15-19,0.011
+Colorectal,Male,15-19,0.018
+Head and neck,Female,15-19,0.039
+Head and neck,Male,15-19,0.022
+Kidney,Female,15-19,0.012
+Kidney,Male,15-19,0.007
+Liver and biliary tract,Female,15-19,0.004
+Liver and biliary tract,Male,15-19,0.01
+Melanoma,Female,15-19,0.022
+Melanoma,Male,15-19,0.023
+Neuroendocrine,Female,15-19,0.015
+Neuroendocrine,Male,15-19,0.016
+Non small cell lung cancer,Female,15-19,0.005
+Non small cell lung cancer,Male,15-19,0.005
+Ovary,Female,15-19,0.071
+Pancreas,Female,15-19,0.008
+Pancreas,Male,15-19,0.003
+Soft tissue sarcoma,Female,15-19,0.077
+Soft tissue sarcoma,Male,15-19,0.082
+Stomach,Female,15-19,0.002
+Stomach,Male,15-19,0.002
+Testicular tumours,Male,15-19,0.064
+Uterus,Female,15-19,0.002
+Bladder,Female,20-24,0.023
+Bladder,Male,20-24,0.033
+Blood,Female,20-24,0.702
+Blood,Male,20-24,0.806
+Bone tissue sarcoma,Female,20-24,0.082
+Bone tissue sarcoma,Male,20-24,0.109
+Brain,Female,20-24,0.267
+Brain,Male,20-24,0.284
+Breast,Female,20-24,0.039
+Cervix,Female,20-24,0.015
+Colorectal,Female,20-24,0.033
+Colorectal,Male,20-24,0.026
+Head and neck,Female,20-24,0.056
+Head and neck,Male,20-24,0.037
+Kidney,Female,20-24,0.011
+Kidney,Male,20-24,0.012
+Liver and biliary tract,Female,20-24,0.009
+Liver and biliary tract,Male,20-24,0.011
+Melanoma,Female,20-24,0.164
+Melanoma,Male,20-24,0.075
+Neuroendocrine,Female,20-24,0.035
+Neuroendocrine,Male,20-24,0.029
+Non small cell lung cancer,Female,20-24,0.019
+Non small cell lung cancer,Male,20-24,0.014
+Oesophagus,Female,20-24,0.001
+Oesophagus,Male,20-24,0.001
+Ovary,Female,20-24,0.124
+Pancreas,Female,20-24,0.02
+Pancreas,Male,20-24,0.009
+Prostate,Male,20-24,0.001
+Small cell lung cancer,Female,20-24,0.001
+Soft tissue sarcoma,Female,20-24,0.097
+Soft tissue sarcoma,Male,20-24,0.094
+Stomach,Female,20-24,0.004
+Stomach,Male,20-24,0.006
+Testicular tumours,Male,20-24,0.427
+Uterus,Female,20-24,0.01
+Bladder,Female,25-29,0.034
+Bladder,Male,25-29,0.069
+Blood,Female,25-29,0.839
+Blood,Male,25-29,0.963
+Bone tissue sarcoma,Female,25-29,0.086
+Bone tissue sarcoma,Male,25-29,0.094
+Brain,Female,25-29,0.49
+Brain,Male,25-29,0.459
+Breast,Female,25-29,0.476
+Cervix,Female,25-29,0.512
+Colorectal,Female,25-29,0.07
+Colorectal,Male,25-29,0.079
+Head and neck,Female,25-29,0.063
+Head and neck,Male,25-29,0.059
+Kidney,Female,25-29,0.037
+Kidney,Male,25-29,0.037
+Liver and biliary tract,Female,25-29,0.011
+Liver and biliary tract,Male,25-29,0.015
+Melanoma,Female,25-29,0.564
+Melanoma,Male,25-29,0.233
+Neuroendocrine,Female,25-29,0.061
+Neuroendocrine,Male,25-29,0.045
+Non small cell lung cancer,Female,25-29,0.032
+Non small cell lung cancer,Male,25-29,0.017
+Oesophagus,Female,25-29,0.002
+Oesophagus,Male,25-29,0.008
+Ovary,Female,25-29,0.19
+Pancreas,Female,25-29,0.027
+Pancreas,Male,25-29,0.024
+Prostate,Male,25-29,0.001
+Renal pelvis and ureter,Female,25-29,0.001
+Renal pelvis and ureter,Male,25-29,0.002
+Soft tissue sarcoma,Female,25-29,0.154
+Soft tissue sarcoma,Male,25-29,0.121
+Stomach,Female,25-29,0.02
+Stomach,Male,25-29,0.02
+Testicular tumours,Male,25-29,1.111
+Uterus,Female,25-29,0.037
+Bladder,Female,30-34,0.05
+Bladder,Male,30-34,0.128
+Blood,Female,30-34,0.94
+Blood,Male,30-34,1.119
+Bone tissue sarcoma,Female,30-34,0.084
+Bone tissue sarcoma,Male,30-34,0.075
+Brain,Female,30-34,0.698
+Brain,Male,30-34,0.622
+Breast,Female,30-34,1.823
+Cervix,Female,30-34,1.634
+Colorectal,Female,30-34,0.26
+Colorectal,Male,30-34,0.231
+Head and neck,Female,30-34,0.11
+Head and neck,Male,30-34,0.111
+Kidney,Female,30-34,0.091
+Kidney,Male,30-34,0.121
+Liver and biliary tract,Female,30-34,0.013
+Liver and biliary tract,Male,30-34,0.026
+Melanoma,Female,30-34,1.094
+Melanoma,Male,30-34,0.555
+Neuroendocrine,Female,30-34,0.12
+Neuroendocrine,Male,30-34,0.082
+Non small cell lung cancer,Female,30-34,0.053
+Non small cell lung cancer,Male,30-34,0.055
+Oesophagus,Female,30-34,0.007
+Oesophagus,Male,30-34,0.023
+Ovary,Female,30-34,0.311
+Pancreas,Female,30-34,0.038
+Pancreas,Male,30-34,0.021
+Prostate,Male,30-34,0.003
+Renal pelvis and ureter,Female,30-34,0.003
+Renal pelvis and ureter,Male,30-34,0.005
+Small cell lung cancer,Male,30-34,0.001
+Soft tissue sarcoma,Female,30-34,0.26
+Soft tissue sarcoma,Male,30-34,0.168
+Stomach,Female,30-34,0.025
+Stomach,Male,30-34,0.028
+Testicular tumours,Male,30-34,1.704
+Uterus,Female,30-34,0.15
+Bladder,Female,35-39,0.081
+Bladder,Male,35-39,0.204
+Blood,Female,35-39,1.115
+Blood,Male,35-39,1.308
+Bone tissue sarcoma,Female,35-39,0.087
+Bone tissue sarcoma,Male,35-39,0.088
+Brain,Female,35-39,0.855
+Brain,Male,35-39,0.712
+Breast,Female,35-39,4.316
+Cervix,Female,35-39,1.749
+Colorectal,Female,35-39,0.667
+Colorectal,Male,35-39,0.628
+Head and neck,Female,35-39,0.184
+Head and neck,Male,35-39,0.232
+Kidney,Female,35-39,0.175
+Kidney,Male,35-39,0.253
+Liver and biliary tract,Female,35-39,0.035
+Liver and biliary tract,Male,35-39,0.053
+Melanoma,Female,35-39,1.487
+Melanoma,Male,35-39,0.709
+Neuroendocrine,Female,35-39,0.163
+Neuroendocrine,Male,35-39,0.13
+Non small cell lung cancer,Female,35-39,0.112
+Non small cell lung cancer,Male,35-39,0.073
+Oesophagus,Female,35-39,0.011
+Oesophagus,Male,35-39,0.033
+Ovary,Female,35-39,0.357
+Pancreas,Female,35-39,0.044
+Pancreas,Male,35-39,0.045
+Prostate,Male,35-39,0.017
+Renal pelvis and ureter,Female,35-39,0.003
+Renal pelvis and ureter,Male,35-39,0.01
+Small cell lung cancer,Female,35-39,0.003
+Small cell lung cancer,Male,35-39,0.004
+Soft tissue sarcoma,Female,35-39,0.297
+Soft tissue sarcoma,Male,35-39,0.247
+Stomach,Female,35-39,0.051
+Stomach,Male,35-39,0.045
+Testicular tumours,Male,35-39,1.714
+Uterus,Female,35-39,0.293
+Bladder,Female,40-44,0.098
+Bladder,Male,40-44,0.355
+Blood,Female,40-44,1.218
+Blood,Male,40-44,1.612
+Bone tissue sarcoma,Female,40-44,0.081
+Bone tissue sarcoma,Male,40-44,0.076
+Brain,Female,40-44,1.112
+Brain,Male,40-44,0.786
+Breast,Female,40-44,7.852
+Cervix,Female,40-44,1.467
+Colorectal,Female,40-44,1.106
+Colorectal,Male,40-44,1.108
+Head and neck,Female,40-44,0.294
+Head and neck,Male,40-44,0.464
+Kidney,Female,40-44,0.279
+Kidney,Male,40-44,0.544
+Liver and biliary tract,Female,40-44,0.058
+Liver and biliary tract,Male,40-44,0.054
+Melanoma,Female,40-44,1.726
+Melanoma,Male,40-44,1.004
+Neuroendocrine,Female,40-44,0.228
+Neuroendocrine,Male,40-44,0.19
+Non small cell lung cancer,Female,40-44,0.21
+Non small cell lung cancer,Male,40-44,0.172
+Oesophagus,Female,40-44,0.031
+Oesophagus,Male,40-44,0.083
+Ovary,Female,40-44,0.496
+Pancreas,Female,40-44,0.072
+Pancreas,Male,40-44,0.061
+Prostate,Male,40-44,0.155
+Renal pelvis and ureter,Female,40-44,0.01
+Renal pelvis and ureter,Male,40-44,0.023
+Small cell lung cancer,Female,40-44,0.011
+Small cell lung cancer,Male,40-44,0.008
+Soft tissue sarcoma,Female,40-44,0.346
+Soft tissue sarcoma,Male,40-44,0.306
+Stomach,Female,40-44,0.069
+Stomach,Male,40-44,0.091
+Testicular tumours,Male,40-44,1.441
+Uterus,Female,40-44,0.491
+Bladder,Female,45-49,0.185
+Bladder,Male,45-49,0.655
+Blood,Female,45-49,1.661
+Blood,Male,45-49,2.254
+Bone tissue sarcoma,Female,45-49,0.055
+Bone tissue sarcoma,Male,45-49,0.072
+Brain,Female,45-49,1.273
+Brain,Male,45-49,0.945
+Breast,Female,45-49,12.873
+Cervix,Female,45-49,1.165
+Colorectal,Female,45-49,1.222
+Colorectal,Male,45-49,1.255
+Head and neck,Female,45-49,0.506
+Head and neck,Male,45-49,1.005
+Kidney,Female,45-49,0.492
+Kidney,Male,45-49,0.919
+Liver and biliary tract,Female,45-49,0.079
+Liver and biliary tract,Male,45-49,0.128
+Melanoma,Female,45-49,2.101
+Melanoma,Male,45-49,1.277
+Neuroendocrine,Female,45-49,0.342
+Neuroendocrine,Male,45-49,0.267
+Non small cell lung cancer,Female,45-49,0.443
+Non small cell lung cancer,Male,45-49,0.36
+Oesophagus,Female,45-49,0.057
+Oesophagus,Male,45-49,0.158
+Ovary,Female,45-49,0.806
+Pancreas,Female,45-49,0.115
+Pancreas,Male,45-49,0.125
+Prostate,Male,45-49,0.888
+Renal pelvis and ureter,Female,45-49,0.016
+Renal pelvis and ureter,Male,45-49,0.046
+Small cell lung cancer,Female,45-49,0.028
+Small cell lung cancer,Male,45-49,0.024
+Soft tissue sarcoma,Female,45-49,0.46
+Soft tissue sarcoma,Male,45-49,0.355
+Stomach,Female,45-49,0.093
+Stomach,Male,45-49,0.151
+Testicular tumours,Male,45-49,0.885
+Uterus,Female,45-49,0.842
+Bladder,Female,50-54,0.419
+Bladder,Male,50-54,1.315
+Blood,Female,50-54,2.572
+Blood,Male,50-54,3.48
+Bone tissue sarcoma,Female,50-54,0.069
+Bone tissue sarcoma,Male,50-54,0.104
+Brain,Female,50-54,1.623
+Brain,Male,50-54,1.137
+Breast,Female,50-54,22.942
+Cervix,Female,50-54,1.084
+Colorectal,Female,50-54,2.222
+Colorectal,Male,50-54,2.483
+Head and neck,Female,50-54,0.937
+Head and neck,Male,50-54,2.295
+Kidney,Female,50-54,0.862
+Kidney,Male,50-54,1.656
+Liver and biliary tract,Female,50-54,0.185
+Liver and biliary tract,Male,50-54,0.26
+Melanoma,Female,50-54,2.883
+Melanoma,Male,50-54,2.055
+Neuroendocrine,Female,50-54,0.59
+Neuroendocrine,Male,50-54,0.488
+Non small cell lung cancer,Female,50-54,0.921
+Non small cell lung cancer,Male,50-54,0.783
+Oesophagus,Female,50-54,0.143
+Oesophagus,Male,50-54,0.421
+Ovary,Female,50-54,1.37
+Pancreas,Female,50-54,0.209
+Pancreas,Male,50-54,0.24
+Prostate,Male,50-54,3.832
+Renal pelvis and ureter,Female,50-54,0.034
+Renal pelvis and ureter,Male,50-54,0.105
+Small cell lung cancer,Female,50-54,0.089
+Small cell lung cancer,Male,50-54,0.053
+Soft tissue sarcoma,Female,50-54,0.65
+Soft tissue sarcoma,Male,50-54,0.468
+Stomach,Female,50-54,0.172
+Stomach,Male,50-54,0.23
+Testicular tumours,Male,50-54,0.726
+Uterus,Female,50-54,1.981
+Bladder,Female,55-59,0.821
+Bladder,Male,55-59,2.366
+Blood,Female,55-59,3.655
+Blood,Male,55-59,4.928
+Bone tissue sarcoma,Female,55-59,0.086
+Bone tissue sarcoma,Male,55-59,0.091
+Brain,Female,55-59,1.824
+Brain,Male,55-59,1.308
+Breast,Female,55-59,24.598
+Cervix,Female,55-59,0.81
+Colorectal,Female,55-59,3.633
+Colorectal,Male,55-59,4.658
+Head and neck,Female,55-59,1.426
+Head and neck,Male,55-59,3.591
+Kidney,Female,55-59,1.194
+Kidney,Male,55-59,2.38
+Liver and biliary tract,Female,55-59,0.257
+Liver and biliary tract,Male,55-59,0.515
+Melanoma,Female,55-59,3.216
+Melanoma,Male,55-59,2.762
+Neuroendocrine,Female,55-59,0.884
+Neuroendocrine,Male,55-59,0.893
+Non small cell lung cancer,Female,55-59,1.743
+Non small cell lung cancer,Male,55-59,1.483
+Oesophagus,Female,55-59,0.253
+Oesophagus,Male,55-59,0.824
+Ovary,Female,55-59,1.879
+Pancreas,Female,55-59,0.375
+Pancreas,Male,55-59,0.414
+Prostate,Male,55-59,11.638
+Renal pelvis and ureter,Female,55-59,0.102
+Renal pelvis and ureter,Male,55-59,0.192
+Small cell lung cancer,Female,55-59,0.157
+Small cell lung cancer,Male,55-59,0.149
+Soft tissue sarcoma,Female,55-59,0.765
+Soft tissue sarcoma,Male,55-59,0.579
+Stomach,Female,55-59,0.264
+Stomach,Male,55-59,0.389
+Testicular tumours,Male,55-59,0.529
+Uterus,Female,55-59,3.9
+Bladder,Female,60-64,1.224
+Bladder,Male,60-64,3.607
+Blood,Female,60-64,4.394
+Blood,Male,60-64,6.33
+Bone tissue sarcoma,Female,60-64,0.069
+Bone tissue sarcoma,Male,60-64,0.07
+Brain,Female,60-64,1.672
+Brain,Male,60-64,1.275
+Breast,Female,60-64,24.03
+Cervix,Female,60-64,0.672
+Colorectal,Female,60-64,5.079
+Colorectal,Male,60-64,7.771
+Head and neck,Female,60-64,1.582
+Head and neck,Male,60-64,4.093
+Kidney,Female,60-64,1.443
+Kidney,Male,60-64,2.752
+Liver and biliary tract,Female,60-64,0.351
+Liver and biliary tract,Male,60-64,0.828
+Melanoma,Female,60-64,3.12
+Melanoma,Male,60-64,3.108
+Neuroendocrine,Female,60-64,1.096
+Neuroendocrine,Male,60-64,1.005
+Non small cell lung cancer,Female,60-64,3.082
+Non small cell lung cancer,Male,60-64,2.483
+Oesophagus,Female,60-64,0.377
+Oesophagus,Male,60-64,1.223
+Ovary,Female,60-64,1.959
+Pancreas,Female,60-64,0.456
+Pancreas,Male,60-64,0.513
+Prostate,Male,60-64,21.486
+Renal pelvis and ureter,Female,60-64,0.144
+Renal pelvis and ureter,Male,60-64,0.32
+Small cell lung cancer,Female,60-64,0.287
+Small cell lung cancer,Male,60-64,0.206
+Soft tissue sarcoma,Female,60-64,0.703
+Soft tissue sarcoma,Male,60-64,0.671
+Stomach,Female,60-64,0.296
+Stomach,Male,60-64,0.435
+Testicular tumours,Male,60-64,0.329
+Uterus,Female,60-64,4.964
+Bladder,Female,65-69,1.638
+Bladder,Male,65-69,5.289
+Blood,Female,65-69,5.484
+Blood,Male,65-69,7.507
+Bone tissue sarcoma,Female,65-69,0.067
+Bone tissue sarcoma,Male,65-69,0.077
+Brain,Female,65-69,1.529
+Brain,Male,65-69,1.237
+Breast,Female,65-69,24.019
+Cervix,Female,65-69,0.468
+Colorectal,Female,65-69,5.921
+Colorectal,Male,65-69,9.181
+Head and neck,Female,65-69,1.559
+Head and neck,Male,65-69,3.913
+Kidney,Female,65-69,1.534
+Kidney,Male,65-69,3.002
+Liver and biliary tract,Female,65-69,0.518
+Liver and biliary tract,Male,65-69,0.981
+Melanoma,Female,65-69,2.996
+Melanoma,Male,65-69,3.348
+Neuroendocrine,Female,65-69,1.243
+Neuroendocrine,Male,65-69,1.178
+Non small cell lung cancer,Female,65-69,4.44
+Non small cell lung cancer,Male,65-69,3.692
+Oesophagus,Female,65-69,0.552
+Oesophagus,Male,65-69,1.561
+Ovary,Female,65-69,1.958
+Pancreas,Female,65-69,0.518
+Pancreas,Male,65-69,0.593
+Prostate,Male,65-69,31.359
+Renal pelvis and ureter,Female,65-69,0.219
+Renal pelvis and ureter,Male,65-69,0.533
+Small cell lung cancer,Female,65-69,0.356
+Small cell lung cancer,Male,65-69,0.254
+Soft tissue sarcoma,Female,65-69,0.672
+Soft tissue sarcoma,Male,65-69,0.76
+Stomach,Female,65-69,0.305
+Stomach,Male,65-69,0.557
+Testicular tumours,Male,65-69,0.174
+Uterus,Female,65-69,5.008
+Bladder,Female,70-74,2.33
+Bladder,Male,70-74,8.173
+Blood,Female,70-74,7.431
+Blood,Male,70-74,9.61
+Bone tissue sarcoma,Female,70-74,0.055
+Bone tissue sarcoma,Male,70-74,0.074
+Brain,Female,70-74,1.69
+Brain,Male,70-74,1.207
+Breast,Female,70-74,25.022
+Cervix,Female,70-74,0.367
+Colorectal,Female,70-74,8.011
+Colorectal,Male,70-74,11.802
+Head and neck,Female,70-74,1.559
+Head and neck,Male,70-74,3.655
+Kidney,Female,70-74,1.972
+Kidney,Male,70-74,3.511
+Liver and biliary tract,Female,70-74,0.643
+Liver and biliary tract,Male,70-74,1.201
+Melanoma,Female,70-74,3.667
+Melanoma,Male,70-74,4.483
+Neuroendocrine,Female,70-74,1.55
+Neuroendocrine,Male,70-74,1.441
+Non small cell lung cancer,Female,70-74,6.264
+Non small cell lung cancer,Male,70-74,5.292
+Oesophagus,Female,70-74,0.671
+Oesophagus,Male,70-74,1.989
+Ovary,Female,70-74,2.297
+Pancreas,Female,70-74,0.656
+Pancreas,Male,70-74,0.793
+Prostate,Male,70-74,42.809
+Renal pelvis and ureter,Female,70-74,0.384
+Renal pelvis and ureter,Male,70-74,0.779
+Small cell lung cancer,Female,70-74,0.429
+Small cell lung cancer,Male,70-74,0.331
+Soft tissue sarcoma,Female,70-74,0.819
+Soft tissue sarcoma,Male,70-74,1.009
+Stomach,Female,70-74,0.427
+Stomach,Male,70-74,0.779
+Testicular tumours,Male,70-74,0.112
+Uterus,Female,70-74,5.309
+Bladder,Female,75-79,2.755
+Bladder,Male,75-79,9.645
+Blood,Female,75-79,7.586
+Blood,Male,75-79,9.788
+Bone tissue sarcoma,Female,75-79,0.055
+Bone tissue sarcoma,Male,75-79,0.046
+Brain,Female,75-79,1.468
+Brain,Male,75-79,1.038
+Breast,Female,75-79,19.078
+Cervix,Female,75-79,0.325
+Colorectal,Female,75-79,7.953
+Colorectal,Male,75-79,10.681
+Head and neck,Female,75-79,1.353
+Head and neck,Male,75-79,2.634
+Kidney,Female,75-79,1.727
+Kidney,Male,75-79,3.177
+Liver and biliary tract,Female,75-79,0.572
+Liver and biliary tract,Male,75-79,1.098
+Melanoma,Female,75-79,3.485
+Melanoma,Male,75-79,4.509
+Neuroendocrine,Female,75-79,1.331
+Neuroendocrine,Male,75-79,1.265
+Non small cell lung cancer,Female,75-79,6.338
+Non small cell lung cancer,Male,75-79,5.52
+Oesophagus,Female,75-79,0.748
+Oesophagus,Male,75-79,1.865
+Ovary,Female,75-79,1.977
+Pancreas,Female,75-79,0.663
+Pancreas,Male,75-79,0.738
+Prostate,Male,75-79,40.262
+Renal pelvis and ureter,Female,75-79,0.504
+Renal pelvis and ureter,Male,75-79,0.901
+Small cell lung cancer,Female,75-79,0.297
+Small cell lung cancer,Male,75-79,0.271
+Soft tissue sarcoma,Female,75-79,0.791
+Soft tissue sarcoma,Male,75-79,1.093
+Stomach,Female,75-79,0.505
+Stomach,Male,75-79,0.799
+Testicular tumours,Male,75-79,0.081
+Uterus,Female,75-79,4.524
+Bladder,Female,80-84,2.288
+Bladder,Male,80-84,7.749
+Blood,Female,80-84,5.684
+Blood,Male,80-84,6.694
+Bone tissue sarcoma,Female,80-84,0.037
+Bone tissue sarcoma,Male,80-84,0.033
+Brain,Female,80-84,0.881
+Brain,Male,80-84,0.553
+Breast,Female,80-84,14.166
+Cervix,Female,80-84,0.177
+Colorectal,Female,80-84,6.773
+Colorectal,Male,80-84,7.955
+Head and neck,Female,80-84,0.837
+Head and neck,Male,80-84,1.4
+Kidney,Female,80-84,1.302
+Kidney,Male,80-84,1.915
+Liver and biliary tract,Female,80-84,0.436
+Liver and biliary tract,Male,80-84,0.682
+Melanoma,Female,80-84,2.539
+Melanoma,Male,80-84,3.283
+Neuroendocrine,Female,80-84,0.803
+Neuroendocrine,Male,80-84,0.797
+Non small cell lung cancer,Female,80-84,4.384
+Non small cell lung cancer,Male,80-84,3.883
+Oesophagus,Female,80-84,0.494
+Oesophagus,Male,80-84,1.026
+Ovary,Female,80-84,1.218
+Pancreas,Female,80-84,0.433
+Pancreas,Male,80-84,0.426
+Prostate,Male,80-84,22.083
+Renal pelvis and ureter,Female,80-84,0.397
+Renal pelvis and ureter,Male,80-84,0.727
+Small cell lung cancer,Female,80-84,0.145
+Small cell lung cancer,Male,80-84,0.14
+Soft tissue sarcoma,Female,80-84,0.572
+Soft tissue sarcoma,Male,80-84,0.889
+Stomach,Female,80-84,0.412
+Stomach,Male,80-84,0.654
+Testicular tumours,Male,80-84,0.026
+Uterus,Female,80-84,2.779
+Bladder,Female,85-89,1.617
+Bladder,Male,85-89,5.046
+Blood,Female,85-89,3.667
+Blood,Male,85-89,3.934
+Bone tissue sarcoma,Female,85-89,0.012
+Bone tissue sarcoma,Male,85-89,0.017
+Brain,Female,85-89,0.518
+Brain,Male,85-89,0.283
+Breast,Female,85-89,9.595
+Cervix,Female,85-89,0.117
+Colorectal,Female,85-89,4.863
+Colorectal,Male,85-89,5.048
+Head and neck,Female,85-89,0.465
+Head and neck,Male,85-89,0.671
+Kidney,Female,85-89,0.825
+Kidney,Male,85-89,1.018
+Liver and biliary tract,Female,85-89,0.247
+Liver and biliary tract,Male,85-89,0.356
+Melanoma,Female,85-89,1.75
+Melanoma,Male,85-89,2.172
+Neuroendocrine,Female,85-89,0.426
+Neuroendocrine,Male,85-89,0.367
+Non small cell lung cancer,Female,85-89,2.35
+Non small cell lung cancer,Male,85-89,2.109
+Oesophagus,Female,85-89,0.281
+Oesophagus,Male,85-89,0.5
+Ovary,Female,85-89,0.497
+Pancreas,Female,85-89,0.254
+Pancreas,Male,85-89,0.232
+Prostate,Male,85-89,10.012
+Renal pelvis and ureter,Female,85-89,0.241
+Renal pelvis and ureter,Male,85-89,0.353
+Small cell lung cancer,Female,85-89,0.052
+Small cell lung cancer,Male,85-89,0.041
+Soft tissue sarcoma,Female,85-89,0.343
+Soft tissue sarcoma,Male,85-89,0.65
+Stomach,Female,85-89,0.282
+Stomach,Male,85-89,0.353
+Testicular tumours,Male,85-89,0.02
+Uterus,Female,85-89,1.479
+Bladder,Female,90+,0.892
+Bladder,Male,90+,2.092
+Blood,Female,90+,1.589
+Blood,Male,90+,1.347
+Bone tissue sarcoma,Female,90+,0.006
+Bone tissue sarcoma,Male,90+,0.006
+Brain,Female,90+,0.222
+Brain,Male,90+,0.091
+Breast,Female,90+,5.719
+Cervix,Female,90+,0.038
+Colorectal,Female,90+,2.031
+Colorectal,Male,90+,1.711
+Head and neck,Female,90+,0.279
+Head and neck,Male,90+,0.27
+Kidney,Female,90+,0.34
+Kidney,Male,90+,0.391
+Liver and biliary tract,Female,90+,0.102
+Liver and biliary tract,Male,90+,0.108
+Melanoma,Female,90+,1.099
+Melanoma,Male,90+,1.035
+Neuroendocrine,Female,90+,0.197
+Neuroendocrine,Male,90+,0.133
+Non small cell lung cancer,Female,90+,1.056
+Non small cell lung cancer,Male,90+,0.691
+Oesophagus,Female,90+,0.138
+Oesophagus,Male,90+,0.151
+Ovary,Female,90+,0.162
+Pancreas,Female,90+,0.127
+Pancreas,Male,90+,0.078
+Prostate,Male,90+,3.848
+Renal pelvis and ureter,Female,90+,0.089
+Renal pelvis and ureter,Male,90+,0.126
+Small cell lung cancer,Female,90+,0.009
+Small cell lung cancer,Male,90+,0.008
+Soft tissue sarcoma,Female,90+,0.169
+Soft tissue sarcoma,Male,90+,0.34
+Stomach,Female,90+,0.099
+Stomach,Male,90+,0.121
+Testicular tumours,Male,90+,0.006
+Uterus,Female,90+,0.497
